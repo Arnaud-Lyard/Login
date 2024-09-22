@@ -1,4 +1,4 @@
 # Login
-Gestion de l'enregistrement et connextion des utilisateurs
+User Registration and Login Management
 
-Formulaire de connexion avec gestion de l'enregistrement des utilisateurs en base de données. Gestion d'un utilisateur unique, cryptage du mot de passe en base de donnée. On utilise la session pour mémoriser la connexion d'un utilisateur. L'utilisateur a également la possibilité de réinitialiser son mot de passe.
+Login form with user registration management in the database. Handling of a unique user with password encryption in the database. The session is used to remember the user's login status. The user also has the option to reset their password.
